@@ -1,0 +1,18 @@
+body{
+    background-color: #333945;
+}
+
+h1{
+    color: antiquewhite;
+}
+
+.button{
+    background-color: #45CE30;
+    border: none;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
